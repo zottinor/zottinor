@@ -1,13 +1,4 @@
 {
     "name": "Octo Organization Workflow",
-    "description": "Octo Organization CI starter workflow.",
-    "iconName": "example-icon",
-    "categories": [
-        "Continuous integration","Go"
-    ],
-    "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
-    ]
+    "description": "Octo Organization CI starter workflow."
 }
