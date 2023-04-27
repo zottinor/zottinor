@@ -1,4 +1,7 @@
 {
     "name": "Delete Repository",
-    "description": "Delete Repository"
+    "description": "Delete Repository",
+    "categories": [
+        "Automation"
+    ]
 }
